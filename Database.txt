@@ -1,0 +1,9 @@
+in table "accounts" you need the following :
+
+1.Username
+2.Password
+3.HDSerial
+4.Email
+5.PhoneNumber
+6.securitycode
+7.RegisterationDate
